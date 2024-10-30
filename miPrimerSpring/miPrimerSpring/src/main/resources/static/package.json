@@ -1,0 +1,10 @@
+{
+  "nombre": "Juan Pérez",
+  "edad": 30,
+  "ocupacion": "Desarrollador",
+  "intereses": [
+    "programación",
+    "lectura",
+    "deportes"
+  ]
+}
